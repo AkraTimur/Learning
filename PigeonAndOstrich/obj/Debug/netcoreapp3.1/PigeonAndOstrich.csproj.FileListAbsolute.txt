@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.exe
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.deps.json
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.dll
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.pdb
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.dll
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.pdb
+C:\C#Projects\ProgrammingTraining\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.genruntimeconfig.cache
