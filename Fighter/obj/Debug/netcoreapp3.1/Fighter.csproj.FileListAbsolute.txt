@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\Fighter\bin\Debug\netcoreapp3.1\Fighter.exe
+C:\C#Projects\ProgrammingTraining\Fighter\bin\Debug\netcoreapp3.1\Fighter.deps.json
+C:\C#Projects\ProgrammingTraining\Fighter\bin\Debug\netcoreapp3.1\Fighter.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\Fighter\bin\Debug\netcoreapp3.1\Fighter.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\Fighter\bin\Debug\netcoreapp3.1\Fighter.dll
+C:\C#Projects\ProgrammingTraining\Fighter\bin\Debug\netcoreapp3.1\Fighter.pdb
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.dll
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.pdb
+C:\C#Projects\ProgrammingTraining\Fighter\obj\Debug\netcoreapp3.1\Fighter.genruntimeconfig.cache

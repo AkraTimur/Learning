@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\VendingMachines\bin\Debug\netcoreapp3.1\VendingMachines.exe
+C:\C#Projects\ProgrammingTraining\VendingMachines\bin\Debug\netcoreapp3.1\VendingMachines.deps.json
+C:\C#Projects\ProgrammingTraining\VendingMachines\bin\Debug\netcoreapp3.1\VendingMachines.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\VendingMachines\bin\Debug\netcoreapp3.1\VendingMachines.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\VendingMachines\bin\Debug\netcoreapp3.1\VendingMachines.dll
+C:\C#Projects\ProgrammingTraining\VendingMachines\bin\Debug\netcoreapp3.1\VendingMachines.pdb
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.dll
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.pdb
+C:\C#Projects\ProgrammingTraining\VendingMachines\obj\Debug\netcoreapp3.1\VendingMachines.genruntimeconfig.cache
