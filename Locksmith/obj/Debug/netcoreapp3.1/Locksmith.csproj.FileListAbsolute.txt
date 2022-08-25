@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\Locksmith\bin\Debug\netcoreapp3.1\Locksmith.exe
+C:\C#Projects\ProgrammingTraining\Locksmith\bin\Debug\netcoreapp3.1\Locksmith.deps.json
+C:\C#Projects\ProgrammingTraining\Locksmith\bin\Debug\netcoreapp3.1\Locksmith.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\Locksmith\bin\Debug\netcoreapp3.1\Locksmith.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\Locksmith\bin\Debug\netcoreapp3.1\Locksmith.dll
+C:\C#Projects\ProgrammingTraining\Locksmith\bin\Debug\netcoreapp3.1\Locksmith.pdb
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.dll
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.pdb
+C:\C#Projects\ProgrammingTraining\Locksmith\obj\Debug\netcoreapp3.1\Locksmith.genruntimeconfig.cache

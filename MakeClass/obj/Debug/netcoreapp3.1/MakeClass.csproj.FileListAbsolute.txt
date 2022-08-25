@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\MakeClass\bin\Debug\netcoreapp3.1\MakeClass.exe
+C:\C#Projects\ProgrammingTraining\MakeClass\bin\Debug\netcoreapp3.1\MakeClass.deps.json
+C:\C#Projects\ProgrammingTraining\MakeClass\bin\Debug\netcoreapp3.1\MakeClass.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\MakeClass\bin\Debug\netcoreapp3.1\MakeClass.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\MakeClass\bin\Debug\netcoreapp3.1\MakeClass.dll
+C:\C#Projects\ProgrammingTraining\MakeClass\bin\Debug\netcoreapp3.1\MakeClass.pdb
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.dll
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.pdb
+C:\C#Projects\ProgrammingTraining\MakeClass\obj\Debug\netcoreapp3.1\MakeClass.genruntimeconfig.cache
