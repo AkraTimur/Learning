@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\MinArray\bin\Debug\netcoreapp3.1\MinArray.exe
+C:\C#Projects\ProgrammingTraining\MinArray\bin\Debug\netcoreapp3.1\MinArray.deps.json
+C:\C#Projects\ProgrammingTraining\MinArray\bin\Debug\netcoreapp3.1\MinArray.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\MinArray\bin\Debug\netcoreapp3.1\MinArray.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\MinArray\bin\Debug\netcoreapp3.1\MinArray.dll
+C:\C#Projects\ProgrammingTraining\MinArray\bin\Debug\netcoreapp3.1\MinArray.pdb
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.dll
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.pdb
+C:\C#Projects\ProgrammingTraining\MinArray\obj\Debug\netcoreapp3.1\MinArray.genruntimeconfig.cache

@@ -6,26 +6,24 @@ using System.Text;
 using System.Threading.Tasks;
 using GeometryTasks;
 
+
 namespace GeometryPainting
 {
-    //Напишите здесь код, который заставит работать методы segment.GetColor и segment.SetColor
-    public static Color GetColor (this Segment segment)
+    static class SegmentExtension
     {
+        static Dictionary<Segment, Color> dictionary = new Dictionary<Segment, Color>();
+        public static Color GetColor(this Segment segment)
+        {
+            if (dictionary.ContainsKey(segment)) return dictionary[segment];
 
-    }
+            return Color.Black;
+        }
 
-    public static void SetColor (this Segment segment, Color  color)
-    {
-
+        public static void SetColor(this Segment segment, Color color) // установить цвет
+        {
+            if (!dictionary.ContainsKey(segment)) dictionary.Add(segment, color);
+            else dictionary[segment] = color;
+        }
     }
 }
-
-/*
-
-Чтобы заработали методы GetColor и SetColor. Открываете SegmentExtensions.cs и там создаете класс, в него записываете методы расширения
-public static Color GetColor(this Segment segment) и public static void SetColor(this Segment segment, Color colour).
-Цвета удобно хранить в словаре, где сегмент - это ключ, цвет - значение.
-Метод GetColor возвращает Color.Black если цвет не задан. Соответственно, по ключу проверяем есть ли у сегмента цвет, если нет то возвращаете Color.Black, если есть - значение цвета сегмента.
-Метод SetColor устанавливает цвет, здесь нужно проверить, есть ли такой сегмент в словаре, если нет - добавляете, если есть то перезаписываете его цвет.
-
- */
+   
