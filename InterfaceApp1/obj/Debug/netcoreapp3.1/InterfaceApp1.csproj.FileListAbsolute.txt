@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\bin\Debug\netcoreapp3.1\InterfaceApp1.exe
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\bin\Debug\netcoreapp3.1\InterfaceApp1.deps.json
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\bin\Debug\netcoreapp3.1\InterfaceApp1.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\bin\Debug\netcoreapp3.1\InterfaceApp1.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\bin\Debug\netcoreapp3.1\InterfaceApp1.dll
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\bin\Debug\netcoreapp3.1\InterfaceApp1.pdb
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.dll
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.pdb
+C:\C#Projects\ProgrammingTraining\InterfaceApp1\obj\Debug\netcoreapp3.1\InterfaceApp1.genruntimeconfig.cache
