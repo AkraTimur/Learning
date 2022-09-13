@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\ZooApp\bin\Debug\netcoreapp3.1\ZooApp.exe
+C:\C#Projects\ProgrammingTraining\ZooApp\bin\Debug\netcoreapp3.1\ZooApp.deps.json
+C:\C#Projects\ProgrammingTraining\ZooApp\bin\Debug\netcoreapp3.1\ZooApp.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\ZooApp\bin\Debug\netcoreapp3.1\ZooApp.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\ZooApp\bin\Debug\netcoreapp3.1\ZooApp.dll
+C:\C#Projects\ProgrammingTraining\ZooApp\bin\Debug\netcoreapp3.1\ZooApp.pdb
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.dll
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.pdb
+C:\C#Projects\ProgrammingTraining\ZooApp\obj\Debug\netcoreapp3.1\ZooApp.genruntimeconfig.cache
