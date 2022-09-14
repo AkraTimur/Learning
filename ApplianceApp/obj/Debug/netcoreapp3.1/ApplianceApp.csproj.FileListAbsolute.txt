@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\ApplianceApp\bin\Debug\netcoreapp3.1\ApplianceApp.exe
+C:\C#Projects\ProgrammingTraining\ApplianceApp\bin\Debug\netcoreapp3.1\ApplianceApp.deps.json
+C:\C#Projects\ProgrammingTraining\ApplianceApp\bin\Debug\netcoreapp3.1\ApplianceApp.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\ApplianceApp\bin\Debug\netcoreapp3.1\ApplianceApp.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\ApplianceApp\bin\Debug\netcoreapp3.1\ApplianceApp.dll
+C:\C#Projects\ProgrammingTraining\ApplianceApp\bin\Debug\netcoreapp3.1\ApplianceApp.pdb
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.dll
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.pdb
+C:\C#Projects\ProgrammingTraining\ApplianceApp\obj\Debug\netcoreapp3.1\ApplianceApp.genruntimeconfig.cache
