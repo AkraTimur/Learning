@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ApplianceApp
 {
-    internal class Oven:Appliance
+    internal class Oven:Appliance,ICoocksFood
     {
         string name = "Oven";
         public float Capacity = 5f;

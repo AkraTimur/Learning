@@ -22,7 +22,12 @@ namespace ApplianceApp
                 joeJav.StartBrewing();
             }
 
+            Oven misterToasty = new Oven();
+            if(misterToasty is ICoocksFood cooker)
+                cooker.CookFood();
 
+            if(misterToasty is Appliance applianceOven)
+                applianceOven.ConsumePower();
             Console.ReadKey();
         }
     }
