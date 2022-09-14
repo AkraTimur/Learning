@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\IClown\bin\Debug\netcoreapp3.1\IClown.exe
+C:\C#Projects\ProgrammingTraining\IClown\bin\Debug\netcoreapp3.1\IClown.deps.json
+C:\C#Projects\ProgrammingTraining\IClown\bin\Debug\netcoreapp3.1\IClown.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\IClown\bin\Debug\netcoreapp3.1\IClown.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\IClown\bin\Debug\netcoreapp3.1\IClown.dll
+C:\C#Projects\ProgrammingTraining\IClown\bin\Debug\netcoreapp3.1\IClown.pdb
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.dll
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.pdb
+C:\C#Projects\ProgrammingTraining\IClown\obj\Debug\netcoreapp3.1\IClown.genruntimeconfig.cache
