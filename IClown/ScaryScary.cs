@@ -20,6 +20,10 @@ namespace IClown
         {
             Console.WriteLine($"Boo! Gotcha! Look at my {ScaryThingIHave}");
         }
+        public void Opa()
+        {
+            Console.WriteLine("this not work in interface");
+        }
     }
 }
 
