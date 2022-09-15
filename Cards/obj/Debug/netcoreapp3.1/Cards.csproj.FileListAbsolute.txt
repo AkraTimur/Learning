@@ -1,0 +1,14 @@
+C:\C#Projects\ProgrammingTraining\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\C#Projects\ProgrammingTraining\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\C#Projects\ProgrammingTraining\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\C#Projects\ProgrammingTraining\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\C#Projects\ProgrammingTraining\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\C#Projects\ProgrammingTraining\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\C#Projects\ProgrammingTraining\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache
