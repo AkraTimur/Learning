@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CardsWithEnum
 {
@@ -16,6 +17,18 @@ namespace CardsWithEnum
 
             Card card = new Card((Values)numberBetween1and13, (Suits)numberBetween0and3);
             Console.WriteLine(card.Name);
+
+            //part2
+            Deck deck = new Deck();
+            deck.PrintCards();
+
+            //part3
+
+            List<Card> cards = new List<Card>();
+            cards.Add(new Card(Values.King, Suits.Diamonds));
+            cards.Add(new Card(Values.Three, Suits.Clubs));
+            cards.Add(new Card(Values.Ace,Suits.Hearts));
+
             Console.ReadKey();
         }
     }
