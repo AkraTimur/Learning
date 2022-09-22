@@ -17,5 +17,9 @@ namespace CardsComparer
             this.Value = value;
             this.Suit = suit;
         }
+        public override string ToString()
+        {
+             return Name;
+        }
     }
 }
