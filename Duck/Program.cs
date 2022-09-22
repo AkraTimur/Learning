@@ -23,6 +23,7 @@ namespace Duck
                new Duck() { Kind = KindOfDuck.Mallard, Size = 14 },
                new Duck() { Kind = KindOfDuck.Loon, Size = 13},
            };
+            ducks.GetEnumerator();
             IComparer<Duck> sizeComparer = new DuckComparerBySize();
             ducks.Sort(sizeComparer);
             PrintDucks(ducks);
