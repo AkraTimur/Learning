@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryRetiredPlayer", "DictionaryRetiredPlayer.csproj", "{383A8E62-5CA7-4E50-B363-DF22CD338B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383A8E62-5CA7-4E50-B363-DF22CD338B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383A8E62-5CA7-4E50-B363-DF22CD338B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383A8E62-5CA7-4E50-B363-DF22CD338B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383A8E62-5CA7-4E50-B363-DF22CD338B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE45D34-C84E-4D6A-B543-4CD24FCBAF2B}
+	EndGlobalSection
+EndGlobal
