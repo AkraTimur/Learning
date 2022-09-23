@@ -15,13 +15,16 @@ namespace DictionaryApp
             /*В словарь добавляются четыре пары «ключ / значение». В данном случае ключом является имя, 
             а значением — любимая еда этого человека.*/
             string name;
-            while ((name = Console.ReadLine()) != "");
+            while ((name = Console.ReadLine()) != "")
             {
                 if (favoriteFoods.ContainsKey(name)) //Метод ContainsKey возвращает true, если словарь содержит значение с указанным ключом.
                     Console.WriteLine($"{name}'s favorite food is {favoriteFoods[name]}"); // получаем значение, связанное с ключом.
                 else
                     Console.WriteLine($"I don't know {name}'s favorite food");
+               
             }
+            
+
         }
     }
 }
