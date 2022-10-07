@@ -21,8 +21,9 @@ namespace Lumberjacks
 
         public void EatFlapjacks()
         {
-
-            Console.WriteLine($"{Name} eat a {flapjackStack.Peek()} flapjacks");
+            Console.WriteLine($"{Name} is eating flapjacks");
+            while (flapjackStack.Count>0)
+            Console.WriteLine($"{Name} ate a {flapjackStack.Pop().ToString().ToLower()} flapjack");
         }
 
     }
