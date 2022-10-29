@@ -14,6 +14,21 @@ namespace LinqApp4
         {
             var value = Program.GetRandomDouble(100);
             Program.PrintValue(value);
+
+
+            // part 2
+
+            int[] values = new int[] { 0, 12, 44, 36, 92, 54, 13, 8 };
+
+            IEnumerable<int> result =
+                from v in values
+                where v < 37
+                orderby -v
+                select v;
+
+            var result2 = values.Where(v => v < 37).OrderBy(v => -v);
+            var result3 = values.Where(v => v < 37).OrderByDescending(v => v);
+
         }
     }
 }
