@@ -17,7 +17,7 @@
                 sw.WriteLine("Clone #{0} attacks {1}", number, location);
                 location = (location == "the mall") ? "downtown" : "the mall";
             }
-            sw.Close(); 
+            sw.Close();
         }
     }
-
+}
